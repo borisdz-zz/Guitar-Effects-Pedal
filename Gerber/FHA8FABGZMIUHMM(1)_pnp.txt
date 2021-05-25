@@ -1,0 +1,34 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=FHA8FABGZMIUHMM(1)
+*Date=21:52:42
+*CreatedBy=Fritzing 0.8.7b.01.24.1bf5
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;1µF;100 mil [THT, electrolytic];48.4717;-39.0623;0;Bottom;C3
+2;330k;THT;36.9499;-52.53;0;Bottom;R3
+3;1k;THT;103.727;-32.9155;0;Bottom;R11
+4;5pF;100 mil [THT, multilayer];62.3076;-50.4218;0;Bottom;C1
+5;100nF;100 mil [THT, multilayer];62.3076;-45.5676;0;Bottom;C2
+6;12k;THT;51.1669;-47.5234;0;Bottom;R5
+7;510k;THT;22.0627;-42.7857;0;Bottom;R2
+8;100k;THT;148.739;-52.53;0;Bottom;R20
+9;220;THT;23.1422;-32.4555;0;Bottom;R27
+10;10k;THT;8.5725;-34.827;0;Bottom;R7
+11;1M;THT;22.0627;-52.53;0;Bottom;R1
+12;1.5k;THT;126.77;-38.56;0;Bottom;R15
+13;47µF;100 mil [THT, electrolytic];138.292;-39.8074;0;Bottom;C8
+14;4.7k;THT;36.9499;-40.244;0;Bottom;R4
+15;1µF;100 mil [THT, electrolytic];93.2967;-50.9552;0;Bottom;C5
+16;;DIP (Dual Inline) [THT];7.874;-48.2882;0;Bottom;IC1
+17;;;99.472;-41.148;0;Bottom;R17
+18;;;99.472;-41.148;0;Bottom;R9
+19;1µF;100 mil [THT, electrolytic];115.248;-34.163;0;Bottom;C7
